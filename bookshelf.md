@@ -1,4 +1,4 @@
 ---
 title: Bookshelf
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://picsum.photos/2560/600?random"
 ---

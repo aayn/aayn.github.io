@@ -1,6 +1,6 @@
 ---
 title: Work In Progress
-feature_image: "assets/rays-and-mounts.jpg"
+feature_image: "https://picsum.photos/2560/600?random"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
