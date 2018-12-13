@@ -3,9 +3,9 @@ title: Bookshelf
 feature_image: "https://picsum.photos/2560/600?random"
 ---
 
-Following is a curated list of books that I have read or am still reading. By
-curated, I mean books that I enjoyed enough to recommend to a friend. At any
-given time, I jump between reading about five books.
+Following is a curated list of books that I have recently read or am still
+reading. By curated, I mean books that I enjoyed enough to recommend to a
+friend. At any given time, I jump between reading about five books.
 
 
 ### Non-fiction
