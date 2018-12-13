@@ -3,7 +3,9 @@ title: Bookshelf
 feature_image: "https://picsum.photos/2560/600?random"
 ---
 
-Follwing is a curated list of books that I have read or am still reading.
+Following is a curated list of books that I have read or am still reading. By
+curated, I mean books that I enjoyed enough to recommend to a friend. At any
+given time, I jump between reading about five books.
 
 
 ### Non-fiction
@@ -32,15 +34,23 @@ eliminating shallow work has greatly improved my productivity.
 
 ----------------
 
-<!---
 #### 12 Rules for Life by Jordan B. Peterson
 
 **Status**: Completed
 
-**Brief insight**: Newport defines Deep Work as, "Professional activities
-performed in a state of distraction-free concentration that push your cognitive
-capabilities to their limit. These efforts create new value, improve your skill,
-and are hard to replicate." Scheduling more *focused* time for deep work and
-eliminating shallow work has greatly improved my productivity.
+----------------
 
---->
+#### Superintelligence by Nick Bostrom
+
+**Status**: Reading
+
+----------------
+
+#### So Good They Can't Ignore You by Cal Newport
+
+**Status**: Completed
+
+----------------
+
+
+Note: Website still under development.

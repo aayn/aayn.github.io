@@ -1,9 +1,11 @@
 ---
-title: Work In Progress
+title: Learning. Coffee. Lucid Dreaming.
 feature_image: "https://picsum.photos/2560/600?random"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
+Hi! I'm Aayush Naik. I enjoy learning new things (including meta learning), drinking
+coffee, [reading](/bookshelf/), self-improvement, and lucid dreaming.
 
 <!---
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
