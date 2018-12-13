@@ -34,6 +34,12 @@ eliminating shallow work has greatly improved my productivity.
 
 ----------------
 
+#### Basic Economics: A Citizen's Guide to the Economy by Thomas Sowell
+
+**Status**: Reading
+
+----------------
+
 #### 12 Rules for Life by Jordan B. Peterson
 
 **Status**: Completed
@@ -52,5 +58,16 @@ eliminating shallow work has greatly improved my productivity.
 
 ----------------
 
+#### Principles: Life and Work by Ray Dalio
+
+**Status**: Reading
+
+----------------
+
+#### Sapiens by Yuval Noah Harari
+
+**Status**: Reading
+
+----------------
 
 Note: Website still under development.
