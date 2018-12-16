@@ -38,6 +38,14 @@ eliminating shallow work has greatly improved my productivity.
 
 **Status**: Reading
 
+**Brief insight**: When I was younger and more naive, I remember thinking the
+local grocer to be greedy for charging higher prices for everything as compared
+to a giant hypermarket. This book has not only helped me dispel that erroneous
+notion, but also understand what free markets can and cannot do, how economics
+is all about "the study of scarce resources which have alternative uses", and
+what purpose do prices, profits and losses serve. This book covers an enormous
+number of topics (the audiobook is nearly 24 hours long).
+
 ----------------
 
 #### 12 Rules for Life by Jordan B. Peterson
