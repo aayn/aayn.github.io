@@ -66,6 +66,12 @@ number of topics (the audiobook is nearly 24 hours long).
 
 ----------------
 
+#### The Pragmatic Programmer by Andrew Hunt and David Thomas
+
+**Status**: Reading
+
+----------------
+
 #### Principles: Life and Work by Ray Dalio
 
 **Status**: Reading
