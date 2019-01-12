@@ -1,0 +1,41 @@
+---
+title: Toolkit
+feature_image: "https://picsum.photos/2560/600?random"
+---
+
+There are many tools that I use that increase my productivity, and efficiency
+with respect to time and mental resources. Below are some highly recommened
+tools.
+
+
+### Time-management
+
+----------------
+
+#### [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en)
+
+**Brief description**: Allotting chunks of time for deep, focused, and
+distraction-free work can be extremely helpful. This app helps with that and
+more. Something I really like about it is that, by design, the app is quite
+strict: it doesn't allowing pausing during work intervals; you can set work
+schedules, but can't modify them (you need to completely delete a schedule and
+add a new one).
+
+----------------
+
+### Effective learning
+
+----------------
+
+#### [Anki](https://apps.ankiweb.net/)
+
+**Brief description**: [Spaced
+repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a learning
+technique that is well-known to make learning more effective and greatly improve
+retention. Anki makes using spaced repetition a piece of cake. It works on
+Linux, Mac OS, Windows, iOS, Android, and on any device with a web browser. It
+syncs effortlessly across devices.
+
+----------------
+
+Note: Website still under development.
