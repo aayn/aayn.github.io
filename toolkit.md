@@ -3,9 +3,8 @@ title: Toolkit
 feature_image: "https://picsum.photos/2560/600?random"
 ---
 
-There are many tools that I use that increase my productivity, and efficiency
-with respect to time and mental resources. Below are some highly recommened
-tools.
+There are many tools I use to increase my productivity and efficiency. Following are
+some highly recommended tools.
 
 
 ### Time-management
@@ -32,9 +31,9 @@ add a new one).
 **Brief description**: [Spaced
 repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a learning
 technique that is well-known to make learning more effective and greatly improve
-retention. Anki makes using spaced repetition a piece of cake. It works on
-Linux, Mac OS, Windows, iOS, Android, and on any device with a web browser. It
-syncs effortlessly across devices.
+retention. Anki makes implementing spaced repetition a piece of cake. It works
+on Linux, Mac OS, Windows, iOS, Android, and on any device with a web browser.
+It syncs effortlessly across devices.
 
 ----------------
 
