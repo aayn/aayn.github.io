@@ -48,12 +48,6 @@ number of topics (the audiobook is nearly 24 hours long).
 
 ----------------
 
-#### 12 Rules for Life by Jordan B. Peterson
-
-**Status**: Completed
-
-----------------
-
 #### Superintelligence by Nick Bostrom
 
 **Status**: Reading
