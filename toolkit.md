@@ -4,7 +4,7 @@ feature_image: "https://picsum.photos/2560/600?random"
 ---
 
 There are many tools I use to increase my productivity and efficiency. Following are
-some highly recommended tools.
+some highly recommended ones.
 
 
 ### Time-management
