@@ -36,7 +36,7 @@ eliminating shallow work has greatly improved my productivity.
 
 #### Basic Economics: A Citizen's Guide to the Economy by Thomas Sowell
 
-**Status**: Reading
+**Status**: Completed
 
 **Brief insight**: When I was younger and more naive, I remember thinking the
 local grocer to be greedy for charging higher prices for everything as compared
@@ -47,6 +47,20 @@ what purpose do prices, profits and losses serve. This book covers an enormous
 number of topics (the audiobook is nearly 24 hours long).
 
 ----------------
+
+#### Sapiens by Yuval Noah Harari
+
+**Status**: Completed
+
+**Brief insight**: Reading this book was an experience: a nostalgia in the best
+sort of way. Seeing hundreds of familiar names and concepts - Aryans, America,
+New Amsterdam/York, Wall Street, Hong Kong, Gautam Buddha, Imperialism,
+Capitalism, Christianity, Captain James Cook, Christopher Columbus, Greenwich
+Mean Time, dogs, mammoths, etc. in a historic context makes me feel like I
+understand the world and our species, _Homo Sapiens_, slightly better now. 
+
+----------------
+
 
 #### Superintelligence by Nick Bostrom
 
@@ -71,11 +85,3 @@ number of topics (the audiobook is nearly 24 hours long).
 **Status**: Reading
 
 ----------------
-
-#### Sapiens by Yuval Noah Harari
-
-**Status**: Reading
-
-----------------
-
-Note: Website still under development.
